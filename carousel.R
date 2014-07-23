@@ -1,3 +1,9 @@
+library(devtools)
+install_github('rstudio/htmltools')
+install_github('ramnathv/htmlwidgets')
+install_github('ramnathv/slickCarousel')
+
+
 library(htmltools)
 library(htmlwidgets)
 library(slickCarousel)
